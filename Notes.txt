@@ -1,0 +1,1 @@
+4-30-2022: "traffic-sign-to-test.mp4" was done using the "best.pt" weights (when the img size was 1360). "best (1).pt" is the weights where the img size was like 800
